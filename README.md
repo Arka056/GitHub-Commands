@@ -4,7 +4,7 @@ This repository contains a collection of the **most commonly used Git commands**
 It is intended to help beginners and developers quickly recall commands while working with Git and GitHub.
 
 ## 📘 Contents
-- \`git_commands.md\` → A detailed list of Git commands with explanations.
+- \`GitCommands.md\` → A detailed list of Git commands with explanations.
 
 ## 🔹 Purpose
 The goal of this repository is to:
@@ -13,7 +13,7 @@ The goal of this repository is to:
 - Provide a handy cheatsheet for day-to-day Git operations.
 
 ## 📂 How to Use
-1. Open the [\`GitCommand.md\`](./GitCommand.md) file.
+1. Open the [\`GitCommands.md\`](./GitCommand.md) file.
 2. Search for the command you need.
 3. Copy-paste and use it in your terminal.
 
