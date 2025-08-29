@@ -24,9 +24,6 @@
 - `git pull origin main` -> Fetch and merge changes from remote.
 
 ## Others
-- `git log`  
-  Show commit history.
-- `git diff`  
-  Show changes between commits or working directory.
-- `git reset --hard <commit>`  
-  Reset to a specific commit.
+- `git log` ->  Show commit history.
+- `git diff` ->  Show changes between commits or working directory.
+- `git reset --hard <commit>` ->  Reset to a specific commit.
