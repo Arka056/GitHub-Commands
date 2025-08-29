@@ -20,3 +20,7 @@ The goal of this repository is to:
 ---
 
 ⭐ If you find this helpful, feel free to fork and star this repository!" > README.md
+Then commit & push:
+- `git add README.md`
+- `git commit -m "Added README.md explaining repository purpose"`
+- `git push`
