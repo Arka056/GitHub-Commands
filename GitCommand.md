@@ -1,8 +1,7 @@
-# Git and GitHub Commands with Description
+# 📘 Git Commands with Descriptions
 
 ## Setup
-- `git config --global user.name "Your Name"`  
-  Sets your Git username globally.
+- `git config --global user.name "Your Name"` -> Sets your Git username globally.
 - `git config --global user.email "your@email.com"`  
   Sets your email globally.
 
